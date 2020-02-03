@@ -1,0 +1,46 @@
+body{
+    background-color: #0b0b0b;
+}
+#LogoImage{
+    text-align: center;
+}
+.Logo{
+    height: 25%;
+    width: 25%;
+    border-radius: 80%;
+}
+#Header{
+    font-family: "Calibri";
+    font-size: 150px;
+    color: antiquewhite;
+    text-align: center;
+}
+#LinkBox{
+    margin: auto;
+    padding: 20px;
+    font-family: "Arial";
+    font-size: 60px;
+    text-align: center;
+}
+.Link{
+    padding: 48px;
+}
+
+#About{
+    padding: 0px, 150px, 0px, 150px;
+    font-family: "Arial";
+    font-size: 60px;
+    text-decoration: none;
+}
+#Main{
+    padding: 0px, 150px, 0px, 150px;
+    font-family: "Arial";
+    font-size: 60px;
+    text-decoration: none;
+}
+#Info{
+    padding: 0px, 150px, 0px, 150px;
+    font-family: "Arial";
+    font-size: 60px;
+    text-decoration: none;
+}
